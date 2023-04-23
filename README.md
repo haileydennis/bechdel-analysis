@@ -7,5 +7,13 @@
 * 2. Run the Feature_Selection.ipynb file which cleans, summarizes, selects features.
 * 3. Run the Data_Storage.ipynb to store the data and run queries for additional information
 
+## Dependencies
+* MySQL Server
+* PyMySQL
+* Pandas
+* NumPy
+* scikit-learn
+* Matplotlib
+
 ## Good-to-Knows
 * We will be deleting rows with missing values.
