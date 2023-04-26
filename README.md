@@ -1,9 +1,9 @@
-# Data
+## Data
 * https://github.com/fivethirtyeight/data/blob/master/bechdel/movies.cshttps://github.com/fivethirtyeight/data/blob/master/bechdel/movies.csv
 * https://www.themoviedb.org/?language=en-US
 
 ## To Run
-* Have a MySQL server running.
+* Have a MySQL server running
 * Open Bechdel_Analysis_ALL.ipynb
 * Install PyMySQL (in Data Storage section - pip install pymysql)
 * Configure the Data Storage section with your MySQL info
