@@ -20,3 +20,4 @@
 ## Good-to-Knows
 * We will be deleting rows with missing values so long as there are very few.
 * We will be deleting columns with missing values so long as there are many missing.
+* Please note that changes were made after combining files, so the individual files may not be the final result for that section. The Bechdel_Analysis_ALL.ipynb is our polished final product.
